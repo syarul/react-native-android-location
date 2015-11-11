@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-location",
+  "version": "1.0.0",
+  "description": "A React Native location acquisition through network or GPS without using Google Play Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "location",
+    "android",
+    "gps",
+    "network",
+    "react-component"
+  ],
+  "author": "Syarul <hottincup@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/syarul/react-native-android-location",
+  "bugs": "https://github.com/syarul/react-native-android-location/issues",
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  }
+}
