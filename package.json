@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native location acquisition through network or GPS without using Google Play Service",
   "main": "index.js",
   "scripts": {
