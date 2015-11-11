@@ -1,6 +1,6 @@
-# react-native-location
+# react-native-android-location
 
-Location acquisition through Network or GPS from android device.
+Location acquisition through Network or GPS from android device without using Google Play Service.
 
 ### Installation
 
