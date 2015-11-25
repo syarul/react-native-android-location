@@ -25,7 +25,7 @@ project(':RNAlocation').projectDir = new File(rootProject.projectDir, '../node_m
 ...
 dependencies {
     ...
-    compile project(':react-native-android-location')
+    compile project(':RNAlocation')
 }
 ```
 
